@@ -1,0 +1,8 @@
+Usuarios
+Administardor:
+liberato@mexico.com
+contraseña: 123
+
+Usuario:
+eduardo@mexico.com
+contraseña:123
